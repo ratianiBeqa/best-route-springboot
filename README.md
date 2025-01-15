@@ -18,9 +18,7 @@ This repository contains a Spring Boot application that calculates and returns t
 
 3. Run the application:
    ```bash
-   cd build
-   cd libs
-   java -jar target/demo-0.0.1-SNAPSHOT.jar
+   java -jar build/libs/demo-0.0.1-SNAPSHOT.jar
    ```
 
 
