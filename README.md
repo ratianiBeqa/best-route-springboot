@@ -24,7 +24,7 @@ This repository contains a Spring Boot application that calculates and returns t
 
 ## Running the Application
 
-Once the application is running, access the API at `http://localhost:8080/best-route`.
+Once the application is running, access the API at `http://localhost:8080/api/bestroute`.
 
 ## Example CURL Requests and Responses
 
